@@ -1,0 +1,8 @@
+def normalize(name)
+    L='name'
+	S1=s.upper(L[0])
+    for x in L[1:]:
+	    x=s.lower(x)
+		    return x
+    d=S1+x
+	print (d)
